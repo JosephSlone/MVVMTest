@@ -32,7 +32,7 @@
                    Grid.Row="1"
                    Margin="5"/>
         
-        <TextBlock Text="{Binding Item.Content}"
+        <TextBlock Text="{Binding Tab1.Content}"
                    FontSize="24" Foreground="White"
                    VerticalAlignment="Bottom"
                    Grid.Column="2"
